@@ -65,6 +65,8 @@ This comprehensive dataset provides a rich source of information for analyzing e
 
 ## Dashborad Overview:
 
+![Screenshot 2024-05-13 095701](https://github.com/user-saddam123/HR-Analytics-Dashboard-Style_01-/assets/123800896/73a0c3fb-2311-4337-b70b-ad450fba05de)
+
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
